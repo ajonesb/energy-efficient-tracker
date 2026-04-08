@@ -146,3 +146,12 @@ Focused on clarity and functionality given time constraints.
 - **Backend**: Clean layered architecture (routes → services → repository). Pure calculation functions in `calculations.py` make them independently testable without any DB or HTTP setup.
 - **Frontend**: `useEfficiency` hook owns all async state. Components are purely presentational. Form is pre-filled with the assessment's sample data so reviewers can submit immediately.
 - **No overengineering**: No auth, no pagination, no global state manager — just what the spec requires.
+
+<img width="1891" height="948" alt="image" src="https://github.com/user-attachments/assets/cd9a8d83-f186-4014-afb9-ec8ed4841381" />
+
+<img width="1891" height="948" alt="image" src="https://github.com/user-attachments/assets/d95f0bf4-c7d5-41d3-b706-11aebc580982" />
+
+<img width="1903" height="424" alt="image" src="https://github.com/user-attachments/assets/5b9b5b4e-1e65-4b7e-8c25-ab15d4f1916c" />
+
+
+
