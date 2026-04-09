@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: energy-efficiency-api
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: MONGO_URL
+        sync: false          # you paste this from Atlas
+      - key: DB_NAME
+        value: energy_tracker
+      - key: ALLOWED_ORIGINS
+        sync: false          # you paste the frontend URL after it deploys
+
+  - type: static
+    name: energy-efficiency-frontend
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: VITE_API_URL
+        sync: false          # you paste the backend URL after it deploys
