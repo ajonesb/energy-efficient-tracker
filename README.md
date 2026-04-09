@@ -153,5 +153,8 @@ Focused on clarity and functionality given time constraints.
 
 <img width="1903" height="424" alt="image" src="https://github.com/user-attachments/assets/5b9b5b4e-1e65-4b7e-8c25-ab15d4f1916c" />
 
+## Demo
+https://energy-efficient-tracker-1.onrender.com/
+
 
 
