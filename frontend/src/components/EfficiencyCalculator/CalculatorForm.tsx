@@ -3,8 +3,8 @@ import type { EfficiencyInput } from '../../types'
 import { PeriodInput } from './PeriodInput'
 
 const DEFAULT_FORM: EfficiencyInput = {
-  building_id: '60f7b3b3e4b0f3d4c8b4567a',
-  measure_name: 'High-Efficiency HVAC System',
+  building_id: '507f1f77bcf86cd799439011',
+  measure_name: 'Smart HVAC System Upgrade',
   periods: [
     {
       period: 'business_hours',
