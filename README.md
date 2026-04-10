@@ -147,9 +147,9 @@ Focused on clarity and functionality given time constraints.
 - **Frontend**: `useEfficiency` hook owns all async state. Components are purely presentational. Form is pre-filled with the assessment's sample data so reviewers can submit immediately.
 - **No overengineering**: No auth, no pagination, no global state manager — just what the spec requires.
 
-<img width="1894" height="1007" alt="image" src="https://github.com/user-attachments/assets/746c69f0-24ec-4cfd-9e7f-8a949d6d55d2" />
+<img width="1851" height="943" alt="image" src="https://github.com/user-attachments/assets/7bbadc96-4c02-4417-95bd-582d8c3470db" />
+<img width="1857" height="991" alt="image" src="https://github.com/user-attachments/assets/da39fdee-3c69-4d42-a238-c1e3c2dbca39" />
 
-<img width="1894" height="1007" alt="image" src="https://github.com/user-attachments/assets/a9a8ec8e-16fa-4121-84c4-12020bfead2b" />
 
 <img width="1894" height="1007" alt="image" src="https://github.com/user-attachments/assets/fdd2e478-357b-4ea9-8818-26bd1af71c52" />
 
