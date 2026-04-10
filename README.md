@@ -147,13 +147,15 @@ Focused on clarity and functionality given time constraints.
 - **Frontend**: `useEfficiency` hook owns all async state. Components are purely presentational. Form is pre-filled with the assessment's sample data so reviewers can submit immediately.
 - **No overengineering**: No auth, no pagination, no global state manager — just what the spec requires.
 
-<img width="1894" height="1007" alt="image" src="https://github.com/user-attachments/assets/746c69f0-24ec-4cfd-9e7f-8a949d6d55d2" />
+<img width="1857" height="991" alt="image" src="https://github.com/user-attachments/assets/60ff63ff-45c0-47a4-a556-e6c4d56782a3" />
+<img width="1857" height="991" alt="image" src="https://github.com/user-attachments/assets/5ac523d8-5d7b-492a-99f8-0fbc45b12eac" />
 
-<img width="1894" height="1007" alt="image" src="https://github.com/user-attachments/assets/a9a8ec8e-16fa-4121-84c4-12020bfead2b" />
+
 
 <img width="1894" height="1007" alt="image" src="https://github.com/user-attachments/assets/fdd2e478-357b-4ea9-8818-26bd1af71c52" />
 
-<img width="1894" height="1007" alt="image" src="https://github.com/user-attachments/assets/662323ea-58a9-4618-9f6c-2dabff52315b" />
+<img width="1857" height="991" alt="image" src="https://github.com/user-attachments/assets/746b695d-7394-4794-a3cb-2445d029a922" />
+
 
 
 <img width="1903" height="424" alt="image" src="https://github.com/user-attachments/assets/5b9b5b4e-1e65-4b7e-8c25-ab15d4f1916c" />
@@ -162,7 +164,8 @@ Focused on clarity and functionality given time constraints.
 
 <img width="1894" height="1007" alt="image" src="https://github.com/user-attachments/assets/298109f5-9106-4b83-969a-4a68d9633f6d" />
 
-<img width="1894" height="1007" alt="image" src="https://github.com/user-attachments/assets/ea91d25e-218f-40cc-9637-2c4e9576d85b" />
+<img width="1857" height="991" alt="image" src="https://github.com/user-attachments/assets/1d1e7428-bb1b-41a4-b8c6-48ca8ecac1e0" />
+
 
 
 
